@@ -66,4 +66,6 @@ This code implements a simple game in Pygame where you control a spaceship that 
 - **Finalización del Juego:**
   - El juego termina cuando se agotan las vidas (contador de vidas llega a cero) o cuando se alcanza el puntaje objetivo de 50.
 ## CODIGO DEL JUEGO
+   https://github.com/juanseverich/README.md/blob/main/juego.py
+# CONCLUSION
     
