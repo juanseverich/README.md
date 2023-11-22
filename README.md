@@ -7,6 +7,8 @@
 
 Este código implementa un juego simple en Pygame donde controlas una nave espacial que recolecta asteroides mientras evita colisionar con ellos. La dinámica principal consiste en mover la nave con las teclas direccionales y recolectar los asteroides que aparecen aleatoriamente en la pantalla.
 
+This code implements a simple game in Pygame where you control a spaceship that collects asteroids while avoiding colliding with them. The main dynamic consists of moving the ship with the directional keys and collecting the asteroids that appear randomly on the screen.
+
 ## Instrucciones de Uso
 
 1. **Instalación de Dependencias**
