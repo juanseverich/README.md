@@ -17,6 +17,25 @@ This code implements a simple game in Pygame where you control a spaceship that 
 2. **Ejecución del Juego**
    - Ejecuta el archivo principal del código para iniciar el juego.
 
+# DESARROLLO
+ Que es python?
+ 
+ Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza 
+ para desarrollar aplicaciones de todo tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros
+
+ Que es pygame?
+ Pygame es un conjunto de módulos del lenguaje Python que permiten la creación de videojuegos en dos dimensiones de una manera sencilla.
+ Está orientado al manejo de sprites. Gracias al lenguaje, se puede prototipar y desarrollar rápidamente.
+
+ Que es os en Python?
+ El módulo os en Python proporciona y expone los detalles y la funcionalidad del sistema operativo. Proporciona funcionalidad              independiente del sistema operativo.
+
+ Que es Ramdon en Python?
+ El módulo random de la librería estándar de Python incluye un conjunto de funciones que permiten obtener de distintos modos números
+ aleatorios o, para ser rigurosos, pseudoaleatorios.
+ 
+
+
 ## Funcionalidades Principales
 
 - **Control de la Nave:**
