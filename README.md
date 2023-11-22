@@ -3,6 +3,13 @@
 # UNIVERSIDAD PRIVADA DOMINGO SAVIO
 # FACULTAD DE INGENIERIA
 
+# PROGRAMACIÓN 1
+## INTEGRANTES
+   JUAN DE DIOS SEVERICH AGUIRRE
+   JOSE DANIEL SALAZAR JUSTINIANO
+## DOCENTE
+   ING.JAIME ZAMBRANA CHACÓN
+
 # Nave Recolector de Asteroides
 
 Este código implementa un juego simple en Pygame donde controlas una nave espacial que recolecta asteroides mientras evita colisionar con ellos. La dinámica principal consiste en mover la nave con las teclas direccionales y recolectar los asteroides que aparecen aleatoriamente en la pantalla.
