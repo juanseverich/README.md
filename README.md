@@ -78,6 +78,9 @@ This code implements a simple game in Pygame where you control a spaceship that 
 ## CONCLUSION
 El proyecto ilustra la versatilidad de Python como lenguaje de programación para la creación de juegos. Con el uso de Pygame, 'os' y 'random', se ha desarrollado un juego interactivo donde se controla una nave espacial para recolectar asteroides. Este ejemplo resalta la capacidad de Python para construir aplicaciones de entretenimiento complejas de manera accesible. Muestra cómo el lenguaje, combinado con sus extensiones, facilita la implementación ágil de dinámicas de juego. En síntesis, este proyecto ejemplifica cómo Python ofrece un entorno propicio para crear juegos y aplicaciones interactivas de forma rápida y eficiente en múltiples ámbitos.
 ## BIBLIOGRAFIA
+
+https://www.photopea.com/
+
 https://www.youtube.com/watch?v=xjAvXGT5z3E&list=PLuB3bC9rWQAu6cGeRo_I6QV8cz1_2V6uM
 
 https://www.cosmiclearn.com/lang-es/python-os.php#:~:text=El%20m%C3%B3dulo%20os%20en%20Python,funcionalidad%20independiente%20del%20sistema%20operativo.
