@@ -68,4 +68,5 @@ This code implements a simple game in Pygame where you control a spaceship that 
 ## CODIGO DEL JUEGO
    https://github.com/juanseverich/README.md/blob/main/juego.py
 # CONCLUSION
+El proyecto presentado destaca la potencia y versatilidad de Python como un lenguaje de programación para la creación de juegos. A través de la utilización de Pygame y otros módulos como 'os' y 'random', se ha logrado desarrollar un juego interactivo que permite controlar una nave espacial para recolectar asteroides. Este ejemplo no solo exhibe la capacidad de Python para el desarrollo de aplicaciones de entretenimiento, sino también la accesibilidad y la facilidad con la que se pueden implementar dinámicas de juego complejas. En conjunto, este proyecto subraya cómo Python y sus extensiones ofrecen un entorno propicio para la creación rápida y eficiente de juegos y aplicaciones interactivas en diversas áreas.
     
