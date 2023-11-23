@@ -79,10 +79,15 @@ This code implements a simple game in Pygame where you control a spaceship that 
 
 
 
-![image](![image](https://github.com/juanseverich/README.md/assets/151221322/d3c0fb4b-9ecb-4076-a892-39fe6037d04a)
+![image](https://github.com/juanseverich/README.md/assets/151221322/d3c0fb4b-9ecb-4076-a892-39fe6037d04a)
 
 
-![image](![image](https://github.com/juanseverich/README.md/assets/151221322/7dbf322a-774e-4fe2-b580-d084718a09f8)
+![image](https://github.com/juanseverich/README.md/assets/151221322/7dbf322a-774e-4fe2-b580-d084718a09f8)
+
+
+
+![image](https://github.com/juanseverich/README.md/assets/151221322/3535514a-a3b6-40fa-af88-b4af9dc32623)
+
 
 ## CODIGO DEL JUEGO
    https://github.com/juanseverich/README.md/blob/main/juego.py
